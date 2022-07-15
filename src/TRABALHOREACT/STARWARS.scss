@@ -1,0 +1,10 @@
+.starwars{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: top;
+    margin-left: 50px;
+    font-family: Arial;
+    font-size: 18px;
+}

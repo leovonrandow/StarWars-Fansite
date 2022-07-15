@@ -1,0 +1,29 @@
+
+
+.designImput{
+  margin-top: 20px;
+  width: 400px;
+  height: 30px;
+  color:white;
+  //background-color:#161616;
+  border: solid;
+  border-width: 2px;
+  border-color: #7c7c7c;
+  border-radius: 10px;
+
+}
+label{
+  font-family: Arial;
+  font-weight: bolder;
+  font-size: 23px;
+  font-weight: 10px;
+}
+
+.boxpesquisa{
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+  margin-top: 50px;
+  margin-block-start: 50px;
+}

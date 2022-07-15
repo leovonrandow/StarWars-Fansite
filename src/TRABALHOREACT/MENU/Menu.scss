@@ -1,0 +1,46 @@
+.menu{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    padding: 50px;
+    border-right: 2px solid black;
+    width: 19%;
+    font-family: 'Gotham'
+    font-weight bolder;
+    color: white;
+    
+
+
+}
+a{
+    margin: 5px;
+}
+
+.Link{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: top;
+    font-family: Arial;
+    font-weight: bolder;
+    font-size: 23px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-top: solid;
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: #7c7c7c;
+    
+}
+
+.linkcolor{
+    text-decoration:none;
+    font-family: Arial;
+    font-weight: bolder;
+    font-size: 18px;
+    color:#7c7c7c;
+    margin-left: 10px;
+}
+

@@ -1,0 +1,71 @@
+.rotas{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: top;
+    margin-left: 50px;
+    font-family: Arial;
+    font-size: 18px;
+}
+
+
+
+body {
+    background-size: 100% 100%;
+    background-attachment: scroll;
+    background-size:cover;
+    background: url('./images/FUNOSITE2.png');
+    background-repeat: no-repeat;
+    color: white;
+    padding: 40px;
+    font-family: Sans-Serif;
+    text-align: center;
+  }
+  
+  ul{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content:flex-start;
+    justify-content: flex-start;
+    align-items: top;
+    font-family: Arial;
+    font-size: 15px;
+    //background-color:#161616;
+    padding: 2em;
+    width: 95%;
+    height: max-content;
+  }
+  
+  li{
+  list-style-type: none;
+  max-width: 30%;
+  width: 22%;
+  margin: 0.7em;
+  //background-image: url('./images/BOX\ INFORMACOES.png');
+  background:  #161616;
+  border: solid;
+  border-width: 2px;
+  border-color: #7c7c7c;
+  border-radius: 10px;
+  }
+  
+  .fotomain{
+      display: flex;
+      flex-direction: column;
+      align-content: center;
+      justify-content: center;
+      align-items: center;
+      margin-top: 100px;
+      margin-bottom: 50px;
+  
+  }
+  
+  .logo{
+    margin-top: 20px;
+    margin-bottom: 50px;
+  }
+  
+  
