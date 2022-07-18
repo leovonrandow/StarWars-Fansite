@@ -3,6 +3,7 @@ import PersonagemDetail from './PersonagemDetail/PersonagemDetail'
 import './PERSONAGENS.scss'
 
 export default class Personagens extends React.Component {
+
     constructor(props) {
         super(props);
         this.state = {
